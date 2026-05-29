@@ -29,6 +29,7 @@ Data Preparation
      6. Prepared datasets for Power BI dashboard reporting
 
 Dashboard Features
+
 1. Patient demographic analysis
 2. Gender distribution dashboard
 3. Admission trend analysis
@@ -65,6 +66,7 @@ Key Insights
        Accurate allergy documentation remains critical for patient safety
 
 Business Recommendations
+
 1. Strengthen Preventive Healthcare Programs: Develop obesity awareness and preventive care initiatives to reduce long-term health complications and hospital admissions.
 2. Improve Cardiovascular Care Programs: Expand cardiac care services and screening programs to address the high number of cardiovascular-related diagnoses.
 3. Optimize Hospital Resource Allocation: Use seasonal admission trends to improve staffing, scheduling, and resource planning during peak admission periods.
@@ -81,6 +83,7 @@ Files Included
 * README Documentation
 
 Skills Demonstrated
+
 1. SQL Query Writing
 2. Data Cleaning & Transformation
 3. Power BI Dashboard Development
@@ -92,6 +95,7 @@ Skills Demonstrated
 9. Reporting & Presentation
 
 SQL Analysis Performed
+
 1. Patient demographic analysis
 2. Diagnosis-based filtering
 3. Admission trend analysis
