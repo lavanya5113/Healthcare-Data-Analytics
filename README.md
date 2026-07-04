@@ -1,9 +1,11 @@
 Healthcare Patient & Admission Analytics 
 
 Project Overview
+
     This project focuses on analyzing healthcare patient and hospital admission data using SQL and Power BI. The analysis was performed to identify patterns in patient demographics, diagnoses, hospital admissions, obesity trends, allergies, and specialist coverage. Interactive dashboards and analytical reports were created to transform raw healthcare data into actionable business insights for healthcare management and operational decision-making.
 
  Objectives
+ 
      1. Analyze patient demographics based on gender and age group
      2. Identify the most common diagnoses and admission trends
      3. Study obesity distribution among patients
@@ -12,6 +14,7 @@ Project Overview
      6. Generate business recommendations for healthcare optimization
 
 Tools & Technologies Used
+
      1. MySQL
      2. Power BI
      3. DAX
@@ -21,6 +24,7 @@ Tools & Technologies Used
      7. Business Analytics
 
 Data Preparation
+
      1. Cleaned and transformed healthcare datasets
      2. Replaced missing allergy values with "NKA"
      3. Created obesity indicators using BMI calculations
@@ -29,7 +33,6 @@ Data Preparation
      6. Prepared datasets for Power BI dashboard reporting
 
 Dashboard Features
-
 1. Patient demographic analysis
 2. Gender distribution dashboard
 3. Admission trend analysis
@@ -75,12 +78,10 @@ Business Recommendations
 
 Files Included
 
-* SQL Query Documentation
-* Power BI Dashboard (.pbix)
-* Healthcare Analytics Presentation (.pptx)
-* Dashboard Screenshots
-* Dataset Files
-* README Documentation
+SQL Query Documentation
+Power BI Dashboard (.pbix)
+Healthcare Analytics Presentation (.pptx)
+README Documentation
 
 Skills Demonstrated
 
@@ -105,6 +106,3 @@ SQL Analysis Performed
 7. Multi-table joins between patients, admissions, and doctors
 8. Aggregation and grouping queries
 9. Conditional filtering using CASE statements
-
-Project Outcome
-   This project demonstrates how SQL and Power BI can be combined to analyze healthcare data, uncover meaningful operational insights, and support strategic healthcare decision-making through interactive dashboards and business reporting.
